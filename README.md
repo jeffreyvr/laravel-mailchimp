@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-require composer altelma/laravel-mailchimp --prefer-dist dev-master
+composer require altelma/laravel-mailchimp --prefer-dist dev-master
 ```
 or update your composer.json in root
 ```
